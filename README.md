@@ -69,9 +69,9 @@
 <div align="center">
 
 
- [![drespinosa](https://github-readme-stats.vercel.app/api/top-langs/?username=drespinosat&langs_count=8&theme=dark)](https://github.com/drespinosa/github-readme-stats)
+ [![drespinosa](https://github-readme-stats.vercel.app/api/top-langs/?username=drespinosa&langs_count=8&theme=dark)](https://github.com/drespinosa/github-readme-stats)
 
- ![drespinosa GitHub stats](https://github-readme-stats.vercel.app/api?username=drespinosat&show_icons=true&theme=tokyonight)
+ ![drespinosa GitHub stats](https://github-readme-stats.vercel.app/api?username=drespinosa&show_icons=true&theme=tokyonight)
  
 </div>
 
